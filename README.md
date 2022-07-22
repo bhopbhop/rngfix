@@ -1,4 +1,4 @@
-# rngfix-
+# rngfix
 rngfix for garrys mod ported from the sourcemod version by Clazstudio with some edits from fibzy
 
 #installation
