@@ -7,4 +7,4 @@ drop the rngfix folder into /garrysmod/addons
 
 # config
 
-open rngfix/sv_rngfix and go to line 40
+open rngfix/sh_rngfix and go to line 40
